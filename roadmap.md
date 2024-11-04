@@ -3,7 +3,7 @@ Mindful AI Roadmap Tasklist
 - [x] boop 
 - [ ] no marking
 - [ ] Jalyn 
-- [ ]
-- [ ]
+- [ ] Syd 
+- [ ] Shania
 - 
  
