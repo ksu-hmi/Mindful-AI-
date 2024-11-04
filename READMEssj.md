@@ -5,7 +5,7 @@ This project will use AI to monitor and detect mental health crises by analyzing
 - **Real Time Trend Analysis**: Continously monitoring social media patterns to predict potential mental health crises.
 - **Sentiment Analysis**: Natural language processsing to detect cues from text data.
 - **Data Visualization**: Display trends and metrics through interactive charts.
-- ## Installation**:
+- ## Installation
 - **Navigate the project directory
 - **Insure python is installed
 - **Run the project
