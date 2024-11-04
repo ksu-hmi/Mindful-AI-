@@ -1,4 +1,4 @@
-#MindFul AI RoadMap Tasklist
+# MindFul AI RoadMap Tasklist
 - [X] Decide final topic
 - [X] Add ownership to repository for each group memeber
 - [X] Start readme file
