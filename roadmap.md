@@ -10,9 +10,9 @@ Sample Tasklist
 MindFul AI RoadMap Tasklist
 - [X] Decide final topic
 - [X] Add ownership to repository for each group memeber
-- [ ] Start readme file
-- [ ] Start tasklist file
-- [ ] Locate sample repository
-- [ ] Clone repository
+- [X] Start readme file
+- [X] Start tasklist file
+- [X] Locate sample repository
+- [X] Clone repository
 - [ ] Make edits and additions 
  
