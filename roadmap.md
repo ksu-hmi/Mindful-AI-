@@ -14,5 +14,5 @@ MindFul AI RoadMap Tasklist
 - [ ] Start tasklist file
 - [ ] Locate sample repository
 - [ ] Clone repository
-- [ ] 
+- [ ] Make edits and additions 
  
