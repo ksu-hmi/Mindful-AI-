@@ -1,3 +1,4 @@
 Mindful AI Roadmap Tasklist
-- [x]
-- [x]
+- [x] beep 
+- [x] boop 
+- [ ] no marking 
