@@ -5,7 +5,7 @@
 - [X] Start tasklist file
 - [X] Locate sample repository
 - [X] Clone repository
-Next Steps
+#Next Steps
 - [ ] Make edits and additions (Jalyn)
 - [ ] Make edits and additions (Sydney)
 - [ ] Make edits and additions (Shania)
