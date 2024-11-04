@@ -1,4 +1,4 @@
-MindFul AI RoadMap Tasklist
+#MindFul AI RoadMap Tasklist
 - [X] Decide final topic
 - [X] Add ownership to repository for each group memeber
 - [X] Start readme file
@@ -6,5 +6,7 @@ MindFul AI RoadMap Tasklist
 - [X] Locate sample repository
 - [X] Clone repository
       Next Steps
-- [ ] Make edits and additions 
- 
+- [ ] Make edits and additions (Jalyn)
+- [ ] Make edits and additions (Sydney)
+- [ ] Make edits and additions (Shania)
+- [ ] Meet for shifts/issues/problems solving
