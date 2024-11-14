@@ -9,4 +9,5 @@
 - [ ] Make edits and additions (Jalyn)
 - [ ] Make edits and additions (Sydney)
 - [ ] Make edits and additions (Shania)
+- [X] Decided on different dataset
 - [ ] Meet for shifts/issues/problems solving
