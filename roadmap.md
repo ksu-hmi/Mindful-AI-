@@ -6,10 +6,18 @@
 - [X] Locate sample repository
 - [X] Clone repository
 # Next Steps #
-- [ ] Determine how we want to organize changes made to the code before we proceed
-- [ ] Make edits (6) and additions (Jalyn)
-- [ ] Make edits (6) and additions (Sydney)
-- [ ] Make edits (6) and additions (Shania)
+- [X] Determine how we want to organize changes made to the code before we proceed
+- [X] Make edits (6) and additions (Jalyn)
+- [X] Make edits (6) and additions (Sydney)
+- [X] Make edits (6) and additions (Shania)
+- [X] Made changes to eda file
+- [X] Made changes to infer file
+- [X] Made changes to model file
 - [X] Decided to use a different dataset on 11/13
-- [ ] Meet for shifts/issues/problems solving
- 
+- [X] Meet for shifts/issues/problems solving 11/17
+- [ ] Make 6 more edits (Jalyn)
+- [ ] Make 6 more edits (Sydney)
+- [ ] Make 6 more edits (Shania)
+- [ ] Create Powerpoint slide
+- [ ] Meet for shifts/issues/problems solving 12/4
+- [ ] All Done! 
