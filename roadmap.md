@@ -8,7 +8,6 @@
 # Next Steps #
 - [ ] Make edits (6) and additions (Jalyn)
 - [ ] Make edits (6) and additions (Sydney)
-- [ ] Make edits (6) and additions (Shania)
+- [X] Make edits (6) and additions (Shania)
 - [X] Decided to use a different dataset on 11/13
-- [ ] Meet for shifts/issues/problems solving
-testing
+- [X] Meet for shifts/issues/problems solving
