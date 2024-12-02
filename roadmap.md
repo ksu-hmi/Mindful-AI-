@@ -8,8 +8,8 @@
 # Next Steps #
 - [ ] Determine how we want to organize changes made to the code before we proceed
 - [ ] Make edits (6) and additions (Jalyn)
-- [ ] Make edits (6) and additions (Sydney)
+- [X] Make edits (3) and additions (Sydney)
 - [ ] Make edits (6) and additions (Shania)
 - [X] Decided to use a different dataset on 11/13
 - [ ] Meet for shifts/issues/problems solving
- 
+- [ ] Create Powerpoint presentation
