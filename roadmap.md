@@ -6,10 +6,11 @@
 - [X] Locate sample repository
 - [X] Clone repository
 # Next Steps #
-- [ ] Determine how we want to organize changes made to the code before we proceed
-- [ ] Make edits (6) and additions (Jalyn)
+- [X] Determine how we want to organize changes made to the code before we proceed
+- [X] Make edits (3) and additions (Jalyn)
 - [X] Make edits (3) and additions (Sydney)
-- [ ] Make edits (6) and additions (Shania)
+- [X] Make edits (3) and additions (Shania)
 - [X] Decided to use a different dataset on 11/13
-- [ ] Meet for shifts/issues/problems solving
-- [ ] Create Powerpoint presentation
+- [X] Meet for shifts/issues/problems solving
+- [X] Create Powerpoint presentation
+- [ ] Record Powerpoint presentation 
